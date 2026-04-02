@@ -1,2 +1,2 @@
 ## Hi guys.
-My name is Magniumer.
+<font color="f19cbb"><b> My name is Magniumer. </b></font> 
