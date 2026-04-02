@@ -1,6 +1,6 @@
-## Hi there 👋
-
-<!--
+## Hi guys.
+My name is Magniumer.
+<!--<img src="https://sun9-83.userapi.com/s/v1/ig2/rOZvLMFqb73Edf8O08y4yJ5lK8DGI9VKpDTBqDTZXLD12wh0RJdspRpa7s9IsIMTjujKDbh0xmsYoy4vRaWUGjr6.jpg?quality=95&as=32x24,48x36,72x54,108x81,160x120,240x180,360x270,480x360,540x405,640x480,720x540,1080x810,1280x960,1440x1080&from=bu&u=6wW9p7q1Y1dd0LyPr3UpK7OTJ_lTUgbAudK7ZSWNwoE&cs=1440x0" alt="The Unlimited" width="180"/>
 **magniumer/magniumer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
