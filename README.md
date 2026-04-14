@@ -1,2 +1,2 @@
 ## Hi guys.
-<font color="f19cbb"> My name is Magniumer. </font> 
+$\color{#9f917b}{\textsf{My name is Magniumer.
