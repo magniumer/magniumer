@@ -15,4 +15,5 @@
 </p>
 
 </div>
-<img width="1080" height="810" alt="image" src="https://github.com/user-attachments/assets/c1f8aa07-c217-465f-8ca3-cc928ba5a9bc" />
+<img width="646" height="481" alt="фи" src="https://github.com/user-attachments/assets/72cee69a-7d5e-42d0-aed0-24ac7af82c53" />
+
