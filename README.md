@@ -8,7 +8,7 @@
 **16 old**  
 **basic dni**  
 **he/him**  
-**multifundom**  
+**multifаndom**  
 **Ru/Eng/surzhyk**  
 **i don't speak English well, but I'm learning.**
 
