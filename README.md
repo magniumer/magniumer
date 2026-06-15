@@ -1,17 +1,13 @@
 <img width="540" height="764" alt="Tumblr_l_368474370405999" src="https://github.com/user-attachments/assets/22c15181-4d95-4adf-9656-1880b8415415" /><div align="center">
 
-<!-- Весь текст в цвете #f19cbb -->
-<p style="color: #f19cbb; font-size: 18px;">
+<div align="center">
 
-**Hi friend.**  
-**my name is Magniumer/Magnium**  
-**16 old**  
-**basic dni**  
-**he/him**  
-**multifаndom**  
-**Ru/Eng/surzhyk**  
-**i don't speak English well, but I'm learning.**
-
+<p style="font-size: 18px;">
+$${\color{#e0b0ff} \text{Hi friend.}}$$ $${\color{#cc80ff} \text{multifandom}}$$<br>
+$${\color{#e0b0ff} \text{my name is Magniumer/Magnium}}$$ $${\color{#cc80ff} \text{Ru/Eng/surzhyk}}$$<br>
+$${\color{#e0b0ff} \text{16 old}}$$ $${\color{#cc80ff} \text{i don't speak English well,}}$$<br>
+$${\color{#e0b0ff} \text{basic dni}}$$ $${\color{#cc80ff} \text{but I'm learning.}}$$<br>
+$${\color{#e0b0ff} \text{he/him}}$$
 </p>
 
 </div>
