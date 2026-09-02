@@ -1,17 +1,26 @@
-<img width="99" height="56" alt="Tumblr_l_367924864196573" src="https://github.com/user-attachments/assets/5fe6289b-59a0-407a-9851-9a9c4237e5eb" />
-
-
 <div align="center">
-
-<p style="font-size: 18px;">
-$${\color{#e0b0ff} \text{Hi friend.}}$$ $${\color{#cc80ff} \text{multifandom}}$$<br>
-$${\color{#e0b0ff} \text{my name is Magniumer/Magnium}}$$ $${\color{#cc80ff} \text{Ru/Eng/surzhyk}}$$<br>
-$${\color{#e0b0ff} \text{16 old}}$$ $${\color{#cc80ff} \text{i don't speak English well,}}$$<br>
-$${\color{#e0b0ff} \text{basic dni}}$$ $${\color{#cc80ff} \text{but I'm learning.}}$$<br>
-$${\color{#e0b0ff} \text{he/him}}$$
-</p>
-
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://github.com/user-attachments/assets/c357affb-7323-4b90-b87c-6326b76f78ac" alt="Персонаж" width="300" />
+      </td>
+      <td align="left" valign="top">
+        <p style="color: #d9ccd2; font-size: 16px; line-height: 1.6;">
+          <b>Magniumer/Magnium</b><br>
+          16 old (minor)<br>
+          he/him<br>
+          <br>
+          <i>Ru/Eng/surzhyk/est</i><br>
+          i don’t speak English well,<br>
+          but I’m learning.<br>
+          <br>
+          <b>basic dni</b>
+        </p>
+        <p style="text-align: center; color: #d9ccd2; margin-top: 15px;">
+          <a href="ССЫЛКА_НА_ТВОЙ_АТАБУК" style="color: #d9ccd2; text-decoration: underline;">ata</a>
+        </p>
+      </td>
+    </tr>
+  </table>
 </div>
-<img width="736" height="382" alt="20b2014af465408be4f2cdeae35f16f3 webp" src="https://github.com/user-attachments/assets/0c69c8df-2c3a-40d1-a87c-364f92e78243" />
-
-<img width="385" height="29" alt="Tumblr_l_370932731047561" src="https://github.com/user-attachments/assets/5f79c729-0b2a-4f8f-8b5c-e8ccce2ebd86" />
+<img width="129" height="129" alt="Без названия28_20260902210945" src="https://github.com/user-attachments/assets/f05f2b49-54be-4f59-8622-5c4c7c59b86f" />
