@@ -17,7 +17,7 @@
           <b>basic dni</b>
         </p>
         <p style="text-align: center; color: #d9ccd2; margin-top: 15px;">
-          <a href="ССЫЛКА_НА_ТВОЙ_АТАБУК" style="color: #d9ccd2; text-decoration: underline;">ata</a>
+          <a href="https://magniumer.atabook.org/" style="color: #d9ccd2; text-decoration: underline;">ata</a>
         </p>
       </td>
     </tr>
